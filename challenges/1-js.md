@@ -42,7 +42,7 @@ __Reccommended courses if you need a refresher on Basic JS__ (Optional)
 [Screenshot Goes Here]
 
 ## Once completed
-Please Commit your work to you newly checked out branch, and push the branch up to the repo. Please open a Pull Request and assign to Von Kaukeano for review.
+Please Commit your work to your newly checked out branch, and push the branch up to the repo. Please open a Pull Request and assign to Von Kaukeano for review.
 
 ## Ask for Help!
 We encourage you to reach out for help. We are happy to point you in the right direction if you get stuck.
